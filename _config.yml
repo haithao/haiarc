@@ -28,3 +28,11 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
+      
+      jekyll-archives:
+  enabled:
+    - categories
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
