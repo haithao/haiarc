@@ -15,6 +15,16 @@ defaults:
   -
     scope:
       path: ""
-      type: "portfolios"
+      type: "products"
     values:
-      layout: "portfolio"
+      layout: "product"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
