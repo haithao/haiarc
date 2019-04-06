@@ -10,3 +10,11 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "portfolios"
+    values:
+      layout: "portfolio"
