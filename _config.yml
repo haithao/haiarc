@@ -11,6 +11,13 @@ github_username:
 # Build settings
 markdown: kramdown
 
+timezone: Etc/UTC
+
+collections:
+  products:
+    _hide_content: true
+    output: true
+
 permalink: pretty
 
 defaults:
