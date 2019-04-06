@@ -11,6 +11,8 @@ github_username:
 # Build settings
 markdown: kramdown
 
+permalink: pretty
+
 defaults:
   -
     scope:
@@ -29,10 +31,3 @@ defaults:
     values:
       layout: "default"
       
-      jekyll-archives:
-  enabled:
-    - categories
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
