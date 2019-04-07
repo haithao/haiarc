@@ -24,17 +24,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "products"
+      type: "portfolios"
     values:
-      layout: "product"
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "index.html"
-    values:
-      layout: "default"
+      layout: "portfolio"
       
