@@ -14,10 +14,10 @@ markdown: kramdown
 timezone: Etc/UTC
 
 collections:
-  products:
+  portfolios:
     _hide_content: true
     output: true
-
+    
 permalink: pretty
 
 defaults:
