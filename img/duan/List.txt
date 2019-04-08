@@ -1,0 +1,68 @@
+- name: CC_fivestarG3_01.jpg
+    thumb: 
+    text: text here
+- name: CC_fivestarG3_02.jpg
+    thumb: 
+    text: text here- name: CC_fivestarG3_03.jpg
+- name: CC_fivestarG3_04.jpg
+    thumb: 
+    text: text here
+- name: CC_fivestarG3_05.jpg
+    thumb: 
+    text: text here
+- name: CC_fivestarG3_06.jpg
+    thumb: 
+    text: text here
+- name: CC_fivestarG3_07.jpg
+    thumb: 
+    text: text here
+- name: CC_imperia_01.jpg
+    thumb: 
+    text: text here
+- name: CC_imperia_02.jpg
+    thumb: 
+    text: text here
+- name: CC_imperia_03.jpg
+    thumb: 
+    text: text here
+- name: CC_imperia_04.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_01.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_02.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_03.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_04.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_05.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_06.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_07.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_08.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_09.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_10.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_11.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_12.jpg
+    thumb: 
+    text: text here
+- name: CC_Tayhotay_13.jpg
+

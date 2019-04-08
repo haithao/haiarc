@@ -1,0 +1,141 @@
+- id: project
+  description: Ảnh thiết kế dự án
+  imagefolder: /img/duan
+  images:
+    - name: CC_fivestarG3_01.jpg
+        thumb: 
+        text: text here
+    - name: CC_fivestarG3_02.jpg
+        thumb: 
+        text: text here
+    - name: CC_fivestarG3_03.jpg
+        thumb: 
+        text: text here
+    - name: CC_fivestarG3_04.jpg
+        thumb: 
+        text: text here
+    - name: CC_fivestarG3_05.jpg
+        thumb: 
+        text: text here
+    - name: CC_fivestarG3_06.jpg
+        thumb: 
+        text: text here
+    - name: CC_fivestarG3_07.jpg
+        thumb: 
+        text: text here
+    - name: CC_imperia_01.jpg
+        thumb: 
+        text: text here
+    - name: CC_imperia_02.jpg
+        thumb: 
+        text: text here
+    - name: CC_imperia_03.jpg
+        thumb: 
+        text: text here
+    - name: CC_imperia_04.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_01.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_02.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_03.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_04.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_05.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_06.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_07.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_08.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_09.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_10.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_11.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_12.jpg
+        thumb: 
+        text: text here
+    - name: CC_Tayhotay_13.jpg
+- id: anhthucte
+  description: Ảnh thực tế thi công
+  imagefolder: /img/anhthucte
+  images:
+    - name: 01.jpg
+        thumb: 
+        text: text here
+    - name: 02.jpg
+        thumb: 
+        text: text here
+    - name: 03.jpg
+        thumb: 
+        text: text here
+    - name: 04.jpg
+        thumb: 
+        text: text here
+    - name: 05.jpg
+        thumb: 
+        text: text here
+    - name: 06.jpg
+        thumb: 
+        text: text here
+    - name: 07.jpg
+        thumb: 
+        text: text here
+    - name: 08.jpg
+        thumb: 
+        text: text here
+    - name: 09.jpg
+        thumb: 
+        text: text here
+    - name: 10.jpg
+        thumb: 
+        text: text here
+    - name: 11.jpg
+        thumb: 
+        text: text here
+    - name: 12.jpg
+        thumb: 
+        text: text here
+    - name: 13.jpg
+        thumb: 
+        text: text here
+    - name: 14.jpg
+        thumb: 
+        text: text here
+    - name: 15.jpg
+        thumb: 
+        text: text here
+    - name: 16.jpg
+        thumb: 
+        text: text here
+    - name: 17.jpg
+        thumb: 
+        text: text here
+    - name: 18.jpg
+        thumb: 
+        text: text here
+    - name: 19.jpg
+        thumb: 
+        text: text here
+    - name: 20.jpg
+        thumb: 
+        text: text here
+    - name: 21.jpg
+        thumb: 
+        text: text here  
