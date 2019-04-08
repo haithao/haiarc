@@ -3,17 +3,17 @@
   imagefolder: /img/duan
   images:
     - name: CC_fivestarG3_01.jpg
-        project: project 
-        text: text here
+      project: project 
+      text: text here
     - name: CC_fivestarG3_02.jpg
-        project: project 
-        text: text here
+      project: project 
+      text: text here
     - name: CC_fivestarG3_03.jpg
-        project: project 
-        text: text here
+      project: project 
+      text: text here
     - name: CC_fivestarG3_04.jpg
-        project: project 
-        text: text here
+      project: project 
+      text: text here
     - name: CC_fivestarG3_05.jpg
         project: project 
         text: text here
