@@ -3,7 +3,6 @@
         <div class="row no-gutter">
 		
 			{% for gallery in site.data.galleries %}
-			  {% if gallery.id == page.galleryid %}
 				<h1>{{ gallery.description }}</h1>
 				<ol>
 				{% for image in gallery.images %}
@@ -24,7 +23,6 @@
 					</div> 
 				{% endfor %}
 				</ol>
-			  {% endif %}
 			{% endfor %}
   
         </div>
