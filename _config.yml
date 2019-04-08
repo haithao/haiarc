@@ -13,18 +13,4 @@ markdown: kramdown
 
 timezone: Etc/UTC
 
-collections:
-  portfolios:
-    _hide_content: true
-    output: true
-    
-permalink: pretty
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "portfolios"
-    values:
-      layout: "portfolio"
       
