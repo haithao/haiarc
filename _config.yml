@@ -1,11 +1,12 @@
 # Site settings
 title:
-email:
+email: dangthanhhai@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
+facebook_username: https://www.facebook.com/smartview68/
 github_username:
 
 # Build settings
